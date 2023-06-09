@@ -17,5 +17,5 @@ pasión aún mayor en la creación y construcción de soluciones tecnológicas q
 - 💬 Puedes preguntar acerca de JavaScript, HTML5, CSS3, Node.js, GitHub, Figma, Jest, React, Firebase ...
 - 📫 Contactame  @Email: flormaria_2424@outlook.com
 - Linkedin: https://www.linkedin.com/in/maria-toribio-rojas/
--⚡ Me encanta la metodología ágil
+- ⚡ Me encanta la metodología ágil
 
