@@ -1,4 +1,4 @@
-### Hola Soy Maria!!👋
+### Puedes llamarme Mary!!👋
 
 # Quien soy.....
 Profesional en el área de contabilidad con más de 9 años de experiencia administrativa,
